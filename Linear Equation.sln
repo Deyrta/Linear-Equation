@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear Equation", "Linear Equation\Linear Equation.csproj", "{B817E40F-8621-4291-8907-778CAF815EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B817E40F-8621-4291-8907-778CAF815EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B817E40F-8621-4291-8907-778CAF815EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B817E40F-8621-4291-8907-778CAF815EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B817E40F-8621-4291-8907-778CAF815EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {994B68F0-4A24-42E9-84D2-DB7A5695C44B}
+	EndGlobalSection
+EndGlobal
